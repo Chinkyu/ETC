@@ -1,0 +1,8 @@
+<?xml version="1.0" ?><cherrytree><node name="ETC" prog_lang="custom-colors" readonly="False" tags="" unique_id="1"><rich_text></rich_text><node name="GitHub" prog_lang="custom-colors" readonly="False" tags="" unique_id="2"><rich_text>
+
+// login 
+git remote add origin https://github.com/chinkyu
+
+git push -u origin master
+
+</rich_text></node></node></cherrytree>

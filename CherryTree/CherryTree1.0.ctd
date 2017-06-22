@@ -1,0 +1,11 @@
+<?xml version="1.0" ?><cherrytree><node name="ETC" prog_lang="custom-colors" readonly="False" tags="" unique_id="1"><rich_text></rich_text><node name="GitHub" prog_lang="custom-colors" readonly="False" tags="" unique_id="2"><rich_text>
+
+// login 
+git remote add origin https://github.com/chinkyu
+
+git push -u origin master
+
+</rich_text></node></node><node name="ANDROID" prog_lang="custom-colors" readonly="False" tags="" unique_id="3"><rich_text></rich_text><node name="ETC" prog_lang="custom-colors" readonly="False" tags="" unique_id="4"><rich_text></rich_text><node name="Toast" prog_lang="java" readonly="False" tags="" unique_id="5"><rich_text>
+// Make Toast 
+
+Toast.makeText(this, &quot;number: &quot; + num, Toast.LENGTH_SHORT).show();</rich_text></node></node></node></cherrytree>
